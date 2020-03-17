@@ -1,6 +1,7 @@
 ---
 title: Beyerdynamic DT1990 250OHMs
 layout: post
+categories: headphones
 ---
 
 ![dt1990](/assets/images/dt1990.png)
@@ -12,5 +13,3 @@ layout: post
 - 45mm Tesla Drivers
 - single sided connector
 - 2 sets of ear pads (analytical and balanced)
-
-[check price](https://amzn.to/3a1d2q0)
