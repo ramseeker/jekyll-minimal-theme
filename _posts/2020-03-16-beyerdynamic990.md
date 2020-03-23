@@ -13,3 +13,5 @@ categories: headphones
 - 45mm Tesla Drivers
 - single sided connector
 - 2 sets of ear pads (analytical and balanced)
+
+

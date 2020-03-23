@@ -1,7 +1,9 @@
 ---
-title: Headphone Subreddit
 layout: post
-categories: resources
+title: Sennheiser hd600
+date: 2020-03-21 19:29:40 -0400
+link: http://apple.com
 ---
 
-The [headphone subreddit](http://reddit.com/r/headphones) is great reading to see others headphones and setups and to dhare questions, ideas and more.
+This is kind of [INTERESTING](Apple.com)
+
