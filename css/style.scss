@@ -196,8 +196,17 @@ table {
       color: $masthead-color;
     }
     
+    small a {
+    
+      color: $link-color;
+      font-size: 75%;
+      font-weight: 400;
+      letter-spacing: 0;
+    }
+    
     small {
-      color: $masthead-small-color;
+    
+      color: #ccc;
       font-size: 75%;
       font-weight: 400;
       letter-spacing: 0;
@@ -236,4 +245,9 @@ table {
 
 ul {
     list-style-type: none;
+    
 }
+
+ul a {color:red;}
+
+
